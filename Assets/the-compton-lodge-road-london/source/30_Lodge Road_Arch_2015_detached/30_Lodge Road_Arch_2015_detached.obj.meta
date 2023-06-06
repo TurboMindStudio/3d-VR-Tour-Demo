@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: b3d17da7bce4c6b49a9316c7ce3dc5eb
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 00-Balcony_Element_ProfileMat
+    second: {fileID: 2100000, guid: 89d113dffdafcf34dae5fbe902aa6f22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 00-Wall_Type_BMat
+    second: {fileID: 2100000, guid: 02e9dd6d3cae8cc49b60c83d7eb72d2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01_crhomeMat
+    second: {fileID: 2100000, guid: 4e8c19441e3d77946a6a6b7cf62a0a10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AluminiumMat
+    second: {fileID: 2100000, guid: 18c5d84717456a44d9899e06f5292e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMCD2AR3_Solid_Materials__Flat_Colors_SmMat
+    second: {fileID: 2100000, guid: f7a4f5aa4b6eb6d4aaa0181147a5918a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMCD2AR3_Solid_Materials__Glossy_Colors_usemtl_BMCD2AR3_Solid_Materials__Glossy_Colors_f_168042_168042_168043_168043_168044_168044Mat
+    second: {fileID: 2100000, guid: fef56aee7f3ab194c8610d4df7b3d6b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMCD2AR3_Solid_Materials__Glossy_Colors_usemtl_BMCD2AR3_Solid_Materials__Glossy_Colors_f_202937_202937_202938_202938_202939_202939Mat
+    second: {fileID: 2100000, guid: 6b41093917636b54997db0df28ba9ed7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMCD2AR3_Solid_Materials__Glossy_Colors_usemtl_BMCD2AR3_Solid_Materials__Glossy_Colors_f_263492_263492_263493_263493_263494_263494Mat
+    second: {fileID: 2100000, guid: a84f92b17d22dd042ad8d227d42403cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMCD2AR3_Solid_Materials__Glossy_Colors_usemtl_BMCD2AR3_Solid_Materials__Glossy_Colors_f_88243_88243_88244_88244_88245_88245Mat
+    second: {fileID: 2100000, guid: e2e503bb9d7952647b08e16ba443be19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMCD2AR3_Solid_Materials__Glossy_Colors_usemtl_BMCD2AR3_Solid_Materials__Glossy_Colors_f_88317_88317_88318_88318_88319_88319Mat
+    second: {fileID: 2100000, guid: f91cf6a9dfa8e1240bf724b017f637de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMCD2AR3_Solid_Materials__Glossy_Colors_usemtl_BMCD2AR3_Solid_Materials__Glossy_Colors_f_88391_88391_88392_88392_88393_88393Mat
+    second: {fileID: 2100000, guid: fd460c9d1fa6a3249a37a5c82f90574b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BMCD2AR3_Solid_Materials__Plastics_TextuMat
+    second: {fileID: 2100000, guid: c035f0b6fba2109449e89b05d3b8dc07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BaseMat
+    second: {fileID: 2100000, guid: 469b5fba1e7fc21469d95d22df3789c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BirchMat
+    second: {fileID: 2100000, guid: 0a6deb665accd384c9d657e5538f3cb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BodyMat
+    second: {fileID: 2100000, guid: 60e95380a03da6d42ac6fae48202b3c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cab_FeetMat
+    second: {fileID: 2100000, guid: d6031a9f72071f14dae3589bfb097893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CabinetMat
+    second: {fileID: 2100000, guid: 5e57a2068982d584aa403bab2a6c431a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinet_base_1Mat
+    second: {fileID: 2100000, guid: 8c4dccdb12d40764eb77d330ead3ffe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinet_finish_1Mat
+    second: {fileID: 2100000, guid: 18bf52136f4556a43948ad178b4a03d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinet_finish_2Mat
+    second: {fileID: 2100000, guid: e7225dbd9348d254786a2cfcddcbe668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CaseworkMat
+    second: {fileID: 2100000, guid: e9dc5c62d38e8c4429783980c813b41d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete,_Cast-in-Place_WHITEMat
+    second: {fileID: 2100000, guid: a324b261479cf7a48aed8c5278015b7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete,_Cast-in-Place_grayMat
+    second: {fileID: 2100000, guid: 129b2c5a5e414754990c5f36419d2331, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete,_Cast_In_SituMat
+    second: {fileID: 2100000, guid: 33c6a467551146741977d57ca8fd157a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Counter_TopMat
+    second: {fileID: 2100000, guid: 3a24d88c494ee614bbd1fb2205639c83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_WoodMat
+    second: {fileID: 2100000, guid: ebf97b0e3cdb2984b8897f802b19c4ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_FloorMat
+    second: {fileID: 2100000, guid: 7ff24366e987ce74cab708d2c2f37a3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_WallMat
+    second: {fileID: 2100000, guid: df79f83120bcd254a8a69eeb6ebd7348, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorsMat
+    second: {fileID: 2100000, guid: ff798215ebff30140ae3e2800c788aee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Generic_ModelsMat
+    second: {fileID: 2100000, guid: 28a549046e34efe4fac546b1401815b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass,_Clear_GlazingMat
+    second: {fileID: 2100000, guid: 27fdd6a3c3741cc4e9bdd7298dda9866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassMat
+    second: {fileID: 2100000, guid: b39d12a31f4c3844d9dbce82756fc552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_-_Clear,_GreyMat
+    second: {fileID: 2100000, guid: 92fa406318736a648a01977fcad4a189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gypsum_Wall_BoardMat
+    second: {fileID: 2100000, guid: 575088f8bb33c9e4a83a802783579fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laminate,_Linen,_MatteMat
+    second: {fileID: 2100000, guid: ae5434140c6fcc743bfcea13a90dad4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather_-_BlackMat
+    second: {fileID: 2100000, guid: 38c202047475962409892dfb0dd2efca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_WoodMat
+    second: {fileID: 2100000, guid: 534adef474194bc42ad3c1b7e9d7664d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lighting_FixturesMat
+    second: {fileID: 2100000, guid: 8cc954977767833408f2d431492a06f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Linen,_WhiteMat
+    second: {fileID: 2100000, guid: 8e4329e95a970ed4e907c51fc550f591, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_-_AluminumMat
+    second: {fileID: 2100000, guid: 028ef987e4f5a394492cb921b4cc7ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_-_ChromeMat
+    second: {fileID: 2100000, guid: 018e20a8535ffe94dbac284d54a446f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_-_Steel,_PolishedMat
+    second: {fileID: 2100000, guid: 0a4678a26b02e5c4ab3af7a83646422b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Stud_LayerMat
+    second: {fileID: 2100000, guid: c3fe0668b3cb7294197f9ed687303c3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint_-_White_Lining-BalconyMat
+    second: {fileID: 2100000, guid: 9081fb3e539190d46bf1a6af213422a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paint_-_White_LiningMat
+    second: {fileID: 2100000, guid: d4d4c4a66f0ec584384cb5e820129888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pan_FinishMat
+    second: {fileID: 2100000, guid: 7357302f5e7265748bab9418bcabea81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PineMat
+    second: {fileID: 2100000, guid: bccf6b25ca13c5445a511f1c3f248880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plumbing_FixturesMat
+    second: {fileID: 2100000, guid: c45113b32b056c0499831f10ab335bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porcelain,_IvoryMat
+    second: {fileID: 2100000, guid: 0311b3495f657d248b0b0a2b014e50fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porcelain_-_WhiteMat
+    second: {fileID: 2100000, guid: 37e844638fd73f64daf37294cd3c6df0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RailingsMat
+    second: {fileID: 2100000, guid: 0bd4ec39eeac1934fa79bdd46e3e1539, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seat_FinishMat
+    second: {fileID: 2100000, guid: a665e7ad2ea693e4db4e4929de3af1e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShadeMat
+    second: {fileID: 2100000, guid: 1ef788789d216754494ba78bc57232f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StainlessMat
+    second: {fileID: 2100000, guid: 3bb56210478cc6847b6b2e7fc0fb44c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel,_Chrome_PlatedMat
+    second: {fileID: 2100000, guid: 32d986629bd1b9f43a8f1472802c74de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Textile_-_Bamboo_WeaveMat
+    second: {fileID: 2100000, guid: ee9e2bcd0efe8d74d8085e424f9ee2a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top_RailsMat
+    second: {fileID: 2100000, guid: 81be561d791eac844a0965668a4e62f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsMat
+    second: {fileID: 2100000, guid: 2827fb535d59253408fa3eef03ab33d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodMat
+    second: {fileID: 2100000, guid: b7a2ac8db77cb3244aa1488c5815ce7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_-_TeakMat
+    second: {fileID: 2100000, guid: 67c8e2400f5c72744a42a09745a6151d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brancoMat
+    second: {fileID: 2100000, guid: c53b5612ce91c2e4c965e9c1c3c935d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pretoMat
+    second: {fileID: 2100000, guid: 57725893ac5874746b27ddf1852a84b6, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
